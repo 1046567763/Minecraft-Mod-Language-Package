@@ -698,6 +698,7 @@
   "item.thermal.press_packing_2x2_die": "打包模具（2x2）",
   "item.thermal.press_packing_3x3_die": "打包模具（3x3）",
   "item.thermal.press_unpacking_die": "解包模具",
+  "item.thermal.slot_seal": "占位锁",
   "info.thermal.capacitor.mode.0": "充能目标：装备",
   "info.thermal.capacitor.mode.1": "充能目标：物品栏",
   "info.thermal.capacitor.mode.2": "充能目标：所有物品",
